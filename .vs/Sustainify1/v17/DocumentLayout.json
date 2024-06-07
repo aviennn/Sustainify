@@ -1,0 +1,386 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|c:\\users\\admin\\documents\\xamarinproject\\veryfinal\\sustainify1\\sustainify1\\sustainify1\\viewmodel\\sustainifyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|solutionrelative:sustainify1\\sustainify1\\viewmodel\\sustainifyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|c:\\users\\admin\\documents\\xamarinproject\\veryfinal\\sustainify1\\sustainify1\\sustainify1\\view\\usertabbedpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|solutionrelative:sustainify1\\sustainify1\\view\\usertabbedpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|c:\\users\\admin\\documents\\xamarinproject\\veryfinal\\sustainify1\\sustainify1\\sustainify1\\view\\usertabbedpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|solutionrelative:sustainify1\\sustainify1\\view\\usertabbedpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|c:\\users\\admin\\documents\\xamarinproject\\veryfinal\\sustainify1\\sustainify1\\sustainify1\\view\\sustainifyview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|solutionrelative:sustainify1\\sustainify1\\view\\sustainifyview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|c:\\users\\admin\\documents\\xamarinproject\\veryfinal\\sustainify1\\sustainify1\\sustainify1\\view\\sustainifyview.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|solutionrelative:sustainify1\\sustainify1\\view\\sustainifyview.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|c:\\users\\admin\\documents\\xamarinproject\\veryfinal\\sustainify1\\sustainify1\\sustainify1\\view\\sustainifycreate.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|solutionrelative:sustainify1\\sustainify1\\view\\sustainifycreate.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|c:\\users\\admin\\documents\\xamarinproject\\veryfinal\\sustainify1\\sustainify1\\sustainify1\\view\\sustainifycreate.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|solutionrelative:sustainify1\\sustainify1\\view\\sustainifycreate.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|c:\\users\\admin\\documents\\xamarinproject\\veryfinal\\sustainify1\\sustainify1\\sustainify1\\view\\landingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|solutionrelative:sustainify1\\sustainify1\\view\\landingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|c:\\users\\admin\\documents\\xamarinproject\\veryfinal\\sustainify1\\sustainify1\\sustainify1\\view\\landingpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|solutionrelative:sustainify1\\sustainify1\\view\\landingpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|c:\\users\\admin\\documents\\xamarinproject\\veryfinal\\sustainify1\\sustainify1\\sustainify1\\view\\actiondetailshome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|solutionrelative:sustainify1\\sustainify1\\view\\actiondetailshome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|c:\\users\\admin\\documents\\xamarinproject\\veryfinal\\sustainify1\\sustainify1\\sustainify1\\view\\actiondetailshome.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|solutionrelative:sustainify1\\sustainify1\\view\\actiondetailshome.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|c:\\users\\admin\\documents\\xamarinproject\\veryfinal\\sustainify1\\sustainify1\\sustainify1\\view\\actiondetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|solutionrelative:sustainify1\\sustainify1\\view\\actiondetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|c:\\users\\admin\\documents\\xamarinproject\\veryfinal\\sustainify1\\sustainify1\\sustainify1\\view\\actiondetails.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|solutionrelative:sustainify1\\sustainify1\\view\\actiondetails.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|c:\\users\\admin\\documents\\xamarinproject\\veryfinal\\sustainify1\\sustainify1\\sustainify1\\model\\sustainifymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|solutionrelative:sustainify1\\sustainify1\\model\\sustainifymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD209A75-30A9-48EA-B5C4-DAE808F0B2EB}|Sustainify1\\Sustainify1.Android\\Sustainify1.Android.csproj|C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\sustainify1\\sustainify1.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD209A75-30A9-48EA-B5C4-DAE808F0B2EB}|Sustainify1\\Sustainify1.Android\\Sustainify1.Android.csproj|solutionrelative:sustainify1\\sustainify1.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|c:\\users\\admin\\documents\\xamarinproject\\veryfinal\\sustainify1\\sustainify1\\sustainify1\\sustainify1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|solutionrelative:sustainify1\\sustainify1\\sustainify1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|c:\\users\\admin\\documents\\xamarinproject\\veryfinal\\sustainify1\\sustainify1\\sustainify1\\sustainify1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|solutionrelative:sustainify1\\sustainify1\\sustainify1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|c:\\users\\admin\\documents\\xamarinproject\\veryfinal\\sustainify1\\sustainify1\\sustainify1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|solutionrelative:sustainify1\\sustainify1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|c:\\users\\admin\\documents\\xamarinproject\\veryfinal\\sustainify1\\sustainify1\\sustainify1\\services\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|solutionrelative:sustainify1\\sustainify1\\services\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|c:\\users\\admin\\documents\\xamarinproject\\veryfinal\\sustainify1\\sustainify1\\sustainify1\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{216FD3B6-E77E-4415-9629-EA9DE70B73EC}|Sustainify1\\Sustainify1\\Sustainify1.csproj|solutionrelative:sustainify1\\sustainify1\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SustainifyCreate.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\View\\SustainifyCreate.xaml.cs",
+              "RelativeDocumentMoniker": "Sustainify1\\Sustainify1\\View\\SustainifyCreate.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\View\\SustainifyCreate.xaml.cs",
+              "RelativeToolTip": "Sustainify1\\Sustainify1\\View\\SustainifyCreate.xaml.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAwwCYAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:41:50.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SustainifyView.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\View\\SustainifyView.xaml",
+              "RelativeDocumentMoniker": "Sustainify1\\Sustainify1\\View\\SustainifyView.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\View\\SustainifyView.xaml",
+              "RelativeToolTip": "Sustainify1\\Sustainify1\\View\\SustainifyView.xaml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-04T19:35:30.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SustainifyView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\View\\SustainifyView.xaml.cs",
+              "RelativeDocumentMoniker": "Sustainify1\\Sustainify1\\View\\SustainifyView.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\View\\SustainifyView.xaml.cs",
+              "RelativeToolTip": "Sustainify1\\Sustainify1\\View\\SustainifyView.xaml.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAcwDcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:44:13.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserTabbedPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\View\\UserTabbedPage.xaml",
+              "RelativeDocumentMoniker": "Sustainify1\\Sustainify1\\View\\UserTabbedPage.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\View\\UserTabbedPage.xaml",
+              "RelativeToolTip": "Sustainify1\\Sustainify1\\View\\UserTabbedPage.xaml",
+              "ViewState": "AQIAAAwBAAAAAAAAAAAAAAwBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-04T20:16:01.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SustainifyViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\ViewModel\\SustainifyViewModel.cs",
+              "RelativeDocumentMoniker": "Sustainify1\\Sustainify1\\ViewModel\\SustainifyViewModel.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\ViewModel\\SustainifyViewModel.cs",
+              "RelativeToolTip": "Sustainify1\\Sustainify1\\ViewModel\\SustainifyViewModel.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAUwAcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:35:10.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SustainifyCreate.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\View\\SustainifyCreate.xaml",
+              "RelativeDocumentMoniker": "Sustainify1\\Sustainify1\\View\\SustainifyCreate.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\View\\SustainifyCreate.xaml",
+              "RelativeToolTip": "Sustainify1\\Sustainify1\\View\\SustainifyCreate.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-04T19:36:04.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserTabbedPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\View\\UserTabbedPage.xaml.cs",
+              "RelativeDocumentMoniker": "Sustainify1\\Sustainify1\\View\\UserTabbedPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\View\\UserTabbedPage.xaml.cs",
+              "RelativeToolTip": "Sustainify1\\Sustainify1\\View\\UserTabbedPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:16:14.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LandingPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\View\\LandingPage.xaml.cs",
+              "RelativeDocumentMoniker": "Sustainify1\\Sustainify1\\View\\LandingPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\View\\LandingPage.xaml.cs",
+              "RelativeToolTip": "Sustainify1\\Sustainify1\\View\\LandingPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:11:43.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LandingPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\View\\LandingPage.xaml",
+              "RelativeDocumentMoniker": "Sustainify1\\Sustainify1\\View\\LandingPage.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\View\\LandingPage.xaml",
+              "RelativeToolTip": "Sustainify1\\Sustainify1\\View\\LandingPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-04T20:11:31.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ActionDetailsHome.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\View\\ActionDetailsHome.xaml.cs",
+              "RelativeDocumentMoniker": "Sustainify1\\Sustainify1\\View\\ActionDetailsHome.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\View\\ActionDetailsHome.xaml.cs",
+              "RelativeToolTip": "Sustainify1\\Sustainify1\\View\\ActionDetailsHome.xaml.cs",
+              "ViewState": "AQIAAPMAAAAAAAAAAAAAAJAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T14:16:10.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ActionDetailsHome.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\View\\ActionDetailsHome.xaml",
+              "RelativeDocumentMoniker": "Sustainify1\\Sustainify1\\View\\ActionDetailsHome.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\View\\ActionDetailsHome.xaml",
+              "RelativeToolTip": "Sustainify1\\Sustainify1\\View\\ActionDetailsHome.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-05T14:15:52.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ActionDetails.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\View\\ActionDetails.xaml.cs",
+              "RelativeDocumentMoniker": "Sustainify1\\Sustainify1\\View\\ActionDetails.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\View\\ActionDetails.xaml.cs",
+              "RelativeToolTip": "Sustainify1\\Sustainify1\\View\\ActionDetails.xaml.cs",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAAANYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:10:57.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ActionDetails.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\View\\ActionDetails.xaml",
+              "RelativeDocumentMoniker": "Sustainify1\\Sustainify1\\View\\ActionDetails.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\View\\ActionDetails.xaml",
+              "RelativeToolTip": "Sustainify1\\Sustainify1\\View\\ActionDetails.xaml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-04T20:10:47.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SustainifyModel.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\Model\\SustainifyModel.cs",
+              "RelativeDocumentMoniker": "Sustainify1\\Sustainify1\\Model\\SustainifyModel.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\Model\\SustainifyModel.cs",
+              "RelativeToolTip": "Sustainify1\\Sustainify1\\Model\\SustainifyModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:34:42.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1.Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "Sustainify1\\Sustainify1.Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1.Android\\MainActivity.cs",
+              "RelativeToolTip": "Sustainify1\\Sustainify1.Android\\MainActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:11:20.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Sustainify1",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\Sustainify1.csproj",
+              "RelativeDocumentMoniker": "Sustainify1\\Sustainify1\\Sustainify1.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\Sustainify1.csproj",
+              "RelativeToolTip": "Sustainify1\\Sustainify1\\Sustainify1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-04T19:32:01.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Sustainify1.csproj",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\Sustainify1.csproj",
+              "RelativeDocumentMoniker": "Sustainify1\\Sustainify1\\Sustainify1.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\Sustainify1.csproj",
+              "RelativeToolTip": "Sustainify1\\Sustainify1\\Sustainify1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-04T19:33:38.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Sustainify1\\Sustainify1\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\App.xaml.cs",
+              "RelativeToolTip": "Sustainify1\\Sustainify1\\App.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:47:13.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\Services\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "Sustainify1\\Sustainify1\\Services\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\Services\\DatabaseContext.cs",
+              "RelativeToolTip": "Sustainify1\\Sustainify1\\Services\\DatabaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:34:55.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\App.xaml",
+              "RelativeDocumentMoniker": "Sustainify1\\Sustainify1\\App.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\xamarinproject\\VERYFINAL\\Sustainify1\\Sustainify1\\Sustainify1\\App.xaml",
+              "RelativeToolTip": "Sustainify1\\Sustainify1\\App.xaml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-06T08:14:17.01Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 858,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

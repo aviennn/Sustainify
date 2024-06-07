@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Sustainify1.View.LandingPage" NavigationPage.HasNavigationBar="False" BackgroundImageSource="resources/background.png">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center" HorizontalOptions="FillAndExpand">
+
+
+            <Image Source="logo2.png" WidthRequest="300" HeightRequest="300"/>
+            <Label Text="Live better, waste less." TextColor="White" HorizontalOptions="Center" VerticalOptions="Center" Margin="0,-100,0,100"/>
+
+            <Frame BackgroundColor="White" HeightRequest="2000" CornerRadius="20" HasShadow="True">
+                <StackLayout Margin="0,50,0,0">
+
+                    <Label Text="LOG IN TO CONTINUE" HorizontalOptions="Center" TextColor="#344B20"/>
+
+                    <Frame BackgroundColor="Transparent" CornerRadius="50" BorderColor="#344B20" Padding="10,0,10,0" Margin="0,20,0,20">
+                        <Entry x:Name="txtUsername" Placeholder="Username" TextColor="Black" PlaceholderColor="Gray"/>
+                    </Frame>
+
+                    <Frame BackgroundColor="Transparent" CornerRadius="50" BorderColor="#344B20" Padding="10,0,10,0">
+                        <Entry x:Name="txtPassword" IsPassword="True" Placeholder="Password" TextColor="Black" PlaceholderColor="Gray" />
+                    </Frame>
+
+
+                    <Button VerticalOptions="Center" 
+                         Text="Login" 
+                         TextColor="white" 
+                         BackgroundColor="#4F772D" 
+                         CornerRadius="50" 
+                         Clicked ="btnLogin" 
+                            Margin="30"/>
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

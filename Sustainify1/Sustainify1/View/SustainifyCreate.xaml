@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Sustainify1.View.SustainifyCreate"
+             NavigationPage.HasNavigationBar="False">
+    <ContentPage.Content>
+        <StackLayout Padding="20" Spacing="10">
+
+            <Label Text="Action Code" FontSize="Medium" FontAttributes="Bold"/>
+            <Entry x:Name="actionCodeLabel" Placeholder="Enter action code"/>
+
+            <Label Text="Description" FontSize="Medium" FontAttributes="Bold"/>
+            <Entry x:Name="actionDescription" Placeholder="Enter brief description of the sustainable practice"/>
+
+            <Label Text="Category" FontSize="Medium" FontAttributes="Bold"/>
+            <Picker x:Name="categoryPicker">
+                <Picker.Items>
+                    <x:String>Water</x:String>
+                    <x:String>Waste</x:String>
+                    <x:String>Energy</x:String>
+                    <x:String>Biodiversity</x:String>
+                    <x:String>Climate</x:String>
+                    <x:String>Agriculture</x:String>
+                    <x:String>Air</x:String>
+                </Picker.Items>
+            </Picker>
+
+            <Label Text="Impact Level" FontSize="Medium" FontAttributes="Bold"/>
+            <Picker x:Name="impactLevelPicker">
+                <Picker.Items>
+                    <x:String>Low</x:String>
+                    <x:String>Medium</x:String>
+                    <x:String>High</x:String>
+                </Picker.Items>
+            </Picker>
+
+            <Label Text="Impact Level Description" FontSize="Medium" FontAttributes="Bold"/>
+            <Entry x:Name="actionImpactLevelDescription" Placeholder="Enter impact level description"/>
+
+            <Label Text="Frequency" FontSize="Medium" FontAttributes="Bold"/>
+            <Picker x:Name="frequencyPicker">
+                <Picker.Items>
+                    <x:String>Daily</x:String>
+                    <x:String>Weekly</x:String>
+                    <x:String>Monthly</x:String>
+                    <x:String>Yearly</x:String>
+                </Picker.Items>
+            </Picker>
+
+            <Label Text="Number of Checkboxes" FontSize="Medium" FontAttributes="Bold"/>
+            <Entry x:Name="numberOfCheckboxes" Placeholder="Enter number of checkboxes" Keyboard="Numeric"/>
+
+            <Button Text="Go" Clicked="btnSaveUpdate_Clicked" BackgroundColor="#4F772D" TextColor="White" CornerRadius="10"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

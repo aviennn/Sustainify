@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sustainify1.Android", "Sustainify1\Sustainify1.Android\Sustainify1.Android.csproj", "{AD209A75-30A9-48EA-B5C4-DAE808F0B2EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sustainify1", "Sustainify1\Sustainify1\Sustainify1.csproj", "{216FD3B6-E77E-4415-9629-EA9DE70B73EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD209A75-30A9-48EA-B5C4-DAE808F0B2EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD209A75-30A9-48EA-B5C4-DAE808F0B2EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD209A75-30A9-48EA-B5C4-DAE808F0B2EB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AD209A75-30A9-48EA-B5C4-DAE808F0B2EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD209A75-30A9-48EA-B5C4-DAE808F0B2EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD209A75-30A9-48EA-B5C4-DAE808F0B2EB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{216FD3B6-E77E-4415-9629-EA9DE70B73EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{216FD3B6-E77E-4415-9629-EA9DE70B73EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{216FD3B6-E77E-4415-9629-EA9DE70B73EC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{216FD3B6-E77E-4415-9629-EA9DE70B73EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{216FD3B6-E77E-4415-9629-EA9DE70B73EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{216FD3B6-E77E-4415-9629-EA9DE70B73EC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC02B6A7-5E6F-4943-BC86-03A05BA3D9BE}
+	EndGlobalSection
+EndGlobal

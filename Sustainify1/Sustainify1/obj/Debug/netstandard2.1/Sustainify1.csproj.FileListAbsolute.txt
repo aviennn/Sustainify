@@ -1,0 +1,145 @@
+C:\Users\ADMIN\Documents\avie\Sustainify1\Sustainify1\Sustainify1\Sustainify1\bin\Debug\netstandard2.1\Sustainify1.deps.json
+C:\Users\ADMIN\Documents\avie\Sustainify1\Sustainify1\Sustainify1\Sustainify1\bin\Debug\netstandard2.1\Sustainify1.dll
+C:\Users\ADMIN\Documents\avie\Sustainify1\Sustainify1\Sustainify1\Sustainify1\bin\Debug\netstandard2.1\ref\Sustainify1.dll
+C:\Users\ADMIN\Documents\avie\Sustainify1\Sustainify1\Sustainify1\Sustainify1\bin\Debug\netstandard2.1\Sustainify1.pdb
+C:\Users\ADMIN\Documents\avie\Sustainify1\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\avie\Sustainify1\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\avie\Sustainify1\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\ADMIN\Documents\avie\Sustainify1\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\ADMIN\Documents\avie\Sustainify1\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\SustainifyCreate.xaml.g.cs
+C:\Users\ADMIN\Documents\avie\Sustainify1\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\SustainifyView.xaml.g.cs
+C:\Users\ADMIN\Documents\avie\Sustainify1\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\avie\Sustainify1\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\avie\Sustainify1\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\avie\Sustainify1\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\ADMIN\Documents\avie\Sustainify1\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.dll
+C:\Users\ADMIN\Documents\avie\Sustainify1\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\refint\Sustainify1.dll
+C:\Users\ADMIN\Documents\avie\Sustainify1\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.pdb
+C:\Users\ADMIN\Documents\avie\Sustainify1\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\ActionDetails.xaml.g.cs
+C:\Users\ADMIN\Documents\avie\Sustainify1\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\LandingPage.xaml.g.cs
+C:\Users\ADMIN\Documents\avie\Sustainify1\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\UserTabbedPage.xaml.g.cs
+F:\Xamarin Repository\Sustainify1\Sustainify1\Sustainify1\bin\Debug\netstandard2.1\Sustainify1.deps.json
+F:\Xamarin Repository\Sustainify1\Sustainify1\Sustainify1\bin\Debug\netstandard2.1\Sustainify1.dll
+F:\Xamarin Repository\Sustainify1\Sustainify1\Sustainify1\bin\Debug\netstandard2.1\ref\Sustainify1.dll
+F:\Xamarin Repository\Sustainify1\Sustainify1\Sustainify1\bin\Debug\netstandard2.1\Sustainify1.pdb
+F:\Xamarin Repository\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.csproj.AssemblyReference.cache
+F:\Xamarin Repository\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Xamarin Repository\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\App.xaml.g.cs
+F:\Xamarin Repository\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+F:\Xamarin Repository\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\ActionDetails.xaml.g.cs
+F:\Xamarin Repository\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\LandingPage.xaml.g.cs
+F:\Xamarin Repository\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\SustainifyCreate.xaml.g.cs
+F:\Xamarin Repository\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\SustainifyView.xaml.g.cs
+F:\Xamarin Repository\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\UserTabbedPage.xaml.g.cs
+F:\Xamarin Repository\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.AssemblyInfoInputs.cache
+F:\Xamarin Repository\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.AssemblyInfo.cs
+F:\Xamarin Repository\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.csproj.CoreCompileInputs.cache
+F:\Xamarin Repository\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\XamlC.stamp
+F:\Xamarin Repository\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.dll
+F:\Xamarin Repository\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\refint\Sustainify1.dll
+F:\Xamarin Repository\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.pdb
+C:\Users\ADMIN\Documents\xamarinproject\Sustainify1\Sustainify1\Sustainify1\bin\Debug\netstandard2.1\Sustainify1.deps.json
+C:\Users\ADMIN\Documents\xamarinproject\Sustainify1\Sustainify1\Sustainify1\bin\Debug\netstandard2.1\Sustainify1.dll
+C:\Users\ADMIN\Documents\xamarinproject\Sustainify1\Sustainify1\Sustainify1\bin\Debug\netstandard2.1\ref\Sustainify1.dll
+C:\Users\ADMIN\Documents\xamarinproject\Sustainify1\Sustainify1\Sustainify1\bin\Debug\netstandard2.1\Sustainify1.pdb
+C:\Users\ADMIN\Documents\xamarinproject\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\xamarinproject\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\xamarinproject\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\ADMIN\Documents\xamarinproject\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\ADMIN\Documents\xamarinproject\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\ActionDetails.xaml.g.cs
+C:\Users\ADMIN\Documents\xamarinproject\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\LandingPage.xaml.g.cs
+C:\Users\ADMIN\Documents\xamarinproject\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\SustainifyCreate.xaml.g.cs
+C:\Users\ADMIN\Documents\xamarinproject\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\SustainifyView.xaml.g.cs
+C:\Users\ADMIN\Documents\xamarinproject\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\UserTabbedPage.xaml.g.cs
+C:\Users\ADMIN\Documents\xamarinproject\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\xamarinproject\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\xamarinproject\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\xamarinproject\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\ADMIN\Documents\xamarinproject\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.dll
+C:\Users\ADMIN\Documents\xamarinproject\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\refint\Sustainify1.dll
+C:\Users\ADMIN\Documents\xamarinproject\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.pdb
+C:\Users\ADMIN\Documents\xamarinproject\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\ActionDetailsHome.xaml.g.cs
+C:\Users\ADMIN\Documents\xamarinproject\FINAL\Sustainify1\Sustainify1\Sustainify1\bin\Debug\netstandard2.1\Sustainify1.deps.json
+C:\Users\ADMIN\Documents\xamarinproject\FINAL\Sustainify1\Sustainify1\Sustainify1\bin\Debug\netstandard2.1\Sustainify1.dll
+C:\Users\ADMIN\Documents\xamarinproject\FINAL\Sustainify1\Sustainify1\Sustainify1\bin\Debug\netstandard2.1\ref\Sustainify1.dll
+C:\Users\ADMIN\Documents\xamarinproject\FINAL\Sustainify1\Sustainify1\Sustainify1\bin\Debug\netstandard2.1\Sustainify1.pdb
+C:\Users\ADMIN\Documents\xamarinproject\FINAL\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\xamarinproject\FINAL\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\xamarinproject\FINAL\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\ADMIN\Documents\xamarinproject\FINAL\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\ADMIN\Documents\xamarinproject\FINAL\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\ActionDetails.xaml.g.cs
+C:\Users\ADMIN\Documents\xamarinproject\FINAL\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\ActionDetailsHome.xaml.g.cs
+C:\Users\ADMIN\Documents\xamarinproject\FINAL\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\LandingPage.xaml.g.cs
+C:\Users\ADMIN\Documents\xamarinproject\FINAL\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\SustainifyCreate.xaml.g.cs
+C:\Users\ADMIN\Documents\xamarinproject\FINAL\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\SustainifyView.xaml.g.cs
+C:\Users\ADMIN\Documents\xamarinproject\FINAL\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\UserTabbedPage.xaml.g.cs
+C:\Users\ADMIN\Documents\xamarinproject\FINAL\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\xamarinproject\FINAL\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\xamarinproject\FINAL\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\xamarinproject\FINAL\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\ADMIN\Documents\xamarinproject\FINAL\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.dll
+C:\Users\ADMIN\Documents\xamarinproject\FINAL\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\refint\Sustainify1.dll
+C:\Users\ADMIN\Documents\xamarinproject\FINAL\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.pdb
+C:\Users\ADMIN\Documents\Sustainify1\Sustainify1\Sustainify1\bin\Debug\netstandard2.1\Sustainify1.deps.json
+C:\Users\ADMIN\Documents\Sustainify1\Sustainify1\Sustainify1\bin\Debug\netstandard2.1\Sustainify1.dll
+C:\Users\ADMIN\Documents\Sustainify1\Sustainify1\Sustainify1\bin\Debug\netstandard2.1\ref\Sustainify1.dll
+C:\Users\ADMIN\Documents\Sustainify1\Sustainify1\Sustainify1\bin\Debug\netstandard2.1\Sustainify1.pdb
+C:\Users\ADMIN\Documents\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\ADMIN\Documents\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\ADMIN\Documents\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\ActionDetails.xaml.g.cs
+C:\Users\ADMIN\Documents\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\ActionDetailsHome.xaml.g.cs
+C:\Users\ADMIN\Documents\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\LandingPage.xaml.g.cs
+C:\Users\ADMIN\Documents\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\SustainifyCreate.xaml.g.cs
+C:\Users\ADMIN\Documents\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\SustainifyView.xaml.g.cs
+C:\Users\ADMIN\Documents\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\UserTabbedPage.xaml.g.cs
+C:\Users\ADMIN\Documents\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\ADMIN\Documents\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.dll
+C:\Users\ADMIN\Documents\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\refint\Sustainify1.dll
+C:\Users\ADMIN\Documents\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.pdb
+C:\Users\ADMIN\Documents\xamarinproject\FINALNATLGA\Sustainify1\Sustainify1\Sustainify1\bin\Debug\netstandard2.1\Sustainify1.deps.json
+C:\Users\ADMIN\Documents\xamarinproject\FINALNATLGA\Sustainify1\Sustainify1\Sustainify1\bin\Debug\netstandard2.1\Sustainify1.dll
+C:\Users\ADMIN\Documents\xamarinproject\FINALNATLGA\Sustainify1\Sustainify1\Sustainify1\bin\Debug\netstandard2.1\ref\Sustainify1.dll
+C:\Users\ADMIN\Documents\xamarinproject\FINALNATLGA\Sustainify1\Sustainify1\Sustainify1\bin\Debug\netstandard2.1\Sustainify1.pdb
+C:\Users\ADMIN\Documents\xamarinproject\FINALNATLGA\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\xamarinproject\FINALNATLGA\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\xamarinproject\FINALNATLGA\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\ADMIN\Documents\xamarinproject\FINALNATLGA\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\ADMIN\Documents\xamarinproject\FINALNATLGA\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\ActionDetails.xaml.g.cs
+C:\Users\ADMIN\Documents\xamarinproject\FINALNATLGA\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\ActionDetailsHome.xaml.g.cs
+C:\Users\ADMIN\Documents\xamarinproject\FINALNATLGA\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\LandingPage.xaml.g.cs
+C:\Users\ADMIN\Documents\xamarinproject\FINALNATLGA\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\SustainifyCreate.xaml.g.cs
+C:\Users\ADMIN\Documents\xamarinproject\FINALNATLGA\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\SustainifyView.xaml.g.cs
+C:\Users\ADMIN\Documents\xamarinproject\FINALNATLGA\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\UserTabbedPage.xaml.g.cs
+C:\Users\ADMIN\Documents\xamarinproject\FINALNATLGA\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\xamarinproject\FINALNATLGA\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\xamarinproject\FINALNATLGA\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\xamarinproject\FINALNATLGA\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\ADMIN\Documents\xamarinproject\FINALNATLGA\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.dll
+C:\Users\ADMIN\Documents\xamarinproject\FINALNATLGA\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\refint\Sustainify1.dll
+C:\Users\ADMIN\Documents\xamarinproject\FINALNATLGA\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.pdb
+C:\Users\ADMIN\Documents\xamarinproject\VERYFINAL\Sustainify1\Sustainify1\Sustainify1\bin\Debug\netstandard2.1\Sustainify1.deps.json
+C:\Users\ADMIN\Documents\xamarinproject\VERYFINAL\Sustainify1\Sustainify1\Sustainify1\bin\Debug\netstandard2.1\Sustainify1.dll
+C:\Users\ADMIN\Documents\xamarinproject\VERYFINAL\Sustainify1\Sustainify1\Sustainify1\bin\Debug\netstandard2.1\ref\Sustainify1.dll
+C:\Users\ADMIN\Documents\xamarinproject\VERYFINAL\Sustainify1\Sustainify1\Sustainify1\bin\Debug\netstandard2.1\Sustainify1.pdb
+C:\Users\ADMIN\Documents\xamarinproject\VERYFINAL\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\xamarinproject\VERYFINAL\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\xamarinproject\VERYFINAL\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\ADMIN\Documents\xamarinproject\VERYFINAL\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\ADMIN\Documents\xamarinproject\VERYFINAL\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\ActionDetails.xaml.g.cs
+C:\Users\ADMIN\Documents\xamarinproject\VERYFINAL\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\ActionDetailsHome.xaml.g.cs
+C:\Users\ADMIN\Documents\xamarinproject\VERYFINAL\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\LandingPage.xaml.g.cs
+C:\Users\ADMIN\Documents\xamarinproject\VERYFINAL\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\SustainifyCreate.xaml.g.cs
+C:\Users\ADMIN\Documents\xamarinproject\VERYFINAL\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\SustainifyView.xaml.g.cs
+C:\Users\ADMIN\Documents\xamarinproject\VERYFINAL\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\View\UserTabbedPage.xaml.g.cs
+C:\Users\ADMIN\Documents\xamarinproject\VERYFINAL\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\xamarinproject\VERYFINAL\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\xamarinproject\VERYFINAL\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\xamarinproject\VERYFINAL\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\ADMIN\Documents\xamarinproject\VERYFINAL\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.dll
+C:\Users\ADMIN\Documents\xamarinproject\VERYFINAL\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\refint\Sustainify1.dll
+C:\Users\ADMIN\Documents\xamarinproject\VERYFINAL\Sustainify1\Sustainify1\Sustainify1\obj\Debug\netstandard2.1\Sustainify1.pdb
